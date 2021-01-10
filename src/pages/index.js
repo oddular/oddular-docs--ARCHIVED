@@ -10,6 +10,7 @@ const features = [
   {
     title: 'Easy to Use',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    href: "https://oddular.com",
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
