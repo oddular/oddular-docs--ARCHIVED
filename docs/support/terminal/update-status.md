@@ -1,5 +1,5 @@
 ---
-id: support__terminal__update_status
+id: update-status
 title: Update Order Status
 sidebar_label: Update Order Status
 ---

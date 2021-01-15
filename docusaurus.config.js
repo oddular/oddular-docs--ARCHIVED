@@ -100,8 +100,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/oddular/oddular-docs/edit/main/",
+          editUrl: "https://github.com/oddular/oddular-docs/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

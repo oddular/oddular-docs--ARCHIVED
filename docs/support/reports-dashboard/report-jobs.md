@@ -1,5 +1,5 @@
 ---
-id: support__reports_dashboard__report_jobs
+id: report-jobs
 title: Report Jobs
 sidebar_label: Report Jobs
 ---

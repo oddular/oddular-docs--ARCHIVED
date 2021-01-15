@@ -1,5 +1,5 @@
 ---
-id: support__reports_dashboard__create_report
+id: create-report
 title: Create Report
 sidebar_label: Create Report
 ---
