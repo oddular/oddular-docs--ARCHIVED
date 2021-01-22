@@ -28,6 +28,7 @@ module.exports = {
         "support/terminal/modify-order",
         "support/terminal/ui-overview",
         "support/terminal/update-status",
+        "support/terminal/settings",
       ],
     },
     {
