@@ -1,5 +1,5 @@
 ---
-id: support__commerce_dashboard__edit_product
+id: edit-product
 title: Edit Product
 sidebar_label: Edit Product
 ---

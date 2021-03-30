@@ -1,5 +1,5 @@
 ---
-id: support__commerce_dashboard__add_product
+id: add-product
 title: Add Product
 sidebar_label: Add Product
 ---

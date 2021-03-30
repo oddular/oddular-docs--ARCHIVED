@@ -1,5 +1,5 @@
 ---
-id: support__reports_dashboard__automated_reports
+id: automated-reports
 title: Automated Reports
 sidebar_label: Automated Reports
 ---
